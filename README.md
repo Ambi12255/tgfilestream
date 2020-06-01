@@ -21,3 +21,5 @@ should include the protocol, e.g. `https://example.com`.
 * `LOG_CONFIG` - Path to a Python basic log config. Overrides `DEBUG`.
 * `REQUEST_LIMIT` (default 5) - The maximum number of requests a single IP can have active at a time.
 * `CONNECTION_LIMIT` (default 20) - The maximum number of connections to a single Telegram datacenter.
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Ambi12255/Tgfilestream/edit/master/README.md)
